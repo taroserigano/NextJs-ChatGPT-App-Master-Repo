@@ -11,6 +11,8 @@ const HomePage = () => {
             answers. You can also ask your next vacation plans and this app will
             automatically create the trip and save the plan on the Postgre SQL
             DB on the cloud.
+            <br />
+            *you may have to click Get Started a few times to get through.
           </p>
           <Link href="/chat" className="btn btn-secondary">
             Get Started
